@@ -1,4 +1,5 @@
-# Autocad-proiect
+# Autocad-project
+
 📌 Descriere proiect
 Acest proiect reprezintă realizarea unui model 2D pentru o filieră destinată filetelor metrice cu pas normal, utilizată în procese de prelucrare mecanică.
 
