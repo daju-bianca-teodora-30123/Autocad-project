@@ -1,6 +1,6 @@
 # Autocad-project
 
-📌 Descriere proiect
+Descriere proiect
 Acest proiect reprezintă realizarea unui model 2D pentru o filieră destinată filetelor metrice cu pas normal, utilizată în procese de prelucrare mecanică.
 
 Desene tehnice realizate în AutoCAD (vedere din față și lateral),
@@ -15,4 +15,4 @@ Material: HSS (oțel rapid), tratament termic integral;
 Toleranță: 6g, tip B – tăiere pe dreapta;
 Destinată filetelor în oțeluri aliate și nealiate;
 Parametri conform standardului IMASA.
-📐 Comenzi CAD utilizate: snap, grid, line, circle, arc, offset, dimension, erase, rotate, pline.
+ Comenzi CAD utilizate: snap, grid, line, circle, arc, offset, dimension, erase, rotate, pline.
